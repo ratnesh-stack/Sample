@@ -1,0 +1,6 @@
+framework module Pods_watchDemo_iOS {
+  umbrella header "Pods-watchDemo-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
