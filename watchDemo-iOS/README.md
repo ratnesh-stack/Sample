@@ -9,7 +9,7 @@
 
   
 # WatchManager.Swift
-  This class is devided into 3 Section
+  This class is divided into 3 Section
 
   a) Initilization
   
